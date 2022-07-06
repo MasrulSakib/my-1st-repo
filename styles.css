@@ -1,0 +1,24 @@
+title{
+    color: darkgreen;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 40px;
+    }
+    .blog{
+        background-color:darkgrey;
+        border: 10px solid brown;
+        border-radius: 30px;
+        padding:20px 15px 20px 30px;
+        margin: 30px 20px 15px 25px;
+        color: darkgreen;
+    }
+    .blog-title{
+        text-align: center;
+        font-size: 40px;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .blog p{
+        font-family: 'Times New Roman', Times, serif;
+        text-align: justify;
+        font-weight: 300;
